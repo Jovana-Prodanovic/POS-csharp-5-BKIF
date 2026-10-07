@@ -1,0 +1,14 @@
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\bin\Debug\net10.0\Startship-Mini.exe
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\bin\Debug\net10.0\Startship-Mini.deps.json
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\bin\Debug\net10.0\Startship-Mini.runtimeconfig.json
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\bin\Debug\net10.0\Startship-Mini.dll
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\bin\Debug\net10.0\Startship-Mini.pdb
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.AssemblyInfoInputs.cache
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.AssemblyInfo.cs
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.csproj.CoreCompileInputs.cache
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.dll
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\refint\Startship-Mini.dll
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.pdb
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\Startship-Mini.genruntimeconfig.cache
+C:\Users\start\Documents\5-6 BKIF Kolleg Informatik26-27\POS C#\1 Semester\Startship-Mini\obj\Debug\net10.0\ref\Startship-Mini.dll
