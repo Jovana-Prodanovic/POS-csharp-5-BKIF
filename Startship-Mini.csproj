@@ -6,6 +6,12 @@
         <RootNamespace>Startship_Mini</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Program.cs" />
+        <Compile Include="Models\**\*.cs" />
+    </ItemGroup>
 
 </Project>
